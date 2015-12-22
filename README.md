@@ -1,2 +1,2 @@
 # SpotOnApp
-Rewarding System App
+Application to manage the rewards and recognition program.
